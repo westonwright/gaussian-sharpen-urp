@@ -2,7 +2,7 @@
 ## Installation
 ### INSTALL THIS FIRST -> https://github.com/westonwright/scriptable-renderer-helpers-urp
 ### Add from [https://github.com/westonwright/gaussian-sharpen-urp.git](https://github.com/westonwright/gaussian-sharpen-urp.git) in Unity Package Manager
-[addpackage](https://user-images.githubusercontent.com/57042424/217894561-44cc4a49-c848-472a-8ccb-5a9efd98b314.png)
+![addpackage](https://user-images.githubusercontent.com/57042424/217894561-44cc4a49-c848-472a-8ccb-5a9efd98b314.png)
 ![addpackageurlsharpen](https://user-images.githubusercontent.com/57042424/217894690-2dcb1c1f-dea0-402d-a160-0a280c4ecbdd.png)
 
 ### Add Gaussian Sharpen Renderer Feature on Universal Renderer Data Asset
